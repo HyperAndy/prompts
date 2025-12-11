@@ -8,3 +8,4 @@
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [awesome-prompts](https://github.com/ai-boost/awesome-prompts)
+- [prompt买卖平台](https://promptbase.com/)
