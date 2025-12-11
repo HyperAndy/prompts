@@ -13,6 +13,7 @@
 ### 图片
 - [gpt4o-image-prompts](https://github.com/songguoxs/gpt4o-image-prompts)
 - [youmind-nanobanna](https://youmind.com/zh-CN)
+- [nanobanana-prompt网站](https://nanoprompts.org/zh/)
 
 ### 视频
 - [awesome-video-prompts](https://github.com/songguoxs/awesome-video-prompts)
