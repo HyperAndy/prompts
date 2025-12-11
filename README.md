@@ -9,3 +9,11 @@
 - [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [awesome-prompts](https://github.com/ai-boost/awesome-prompts)
 - [prompt买卖平台](https://promptbase.com/)
+
+### 图片
+- [gpt4o-image-prompts](https://github.com/songguoxs/gpt4o-image-prompts)
+- [youmind-nanobanna](https://youmind.com/zh-CN)
+
+### 视频
+- [awesome-video-prompts](https://github.com/songguoxs/awesome-video-prompts)
+
