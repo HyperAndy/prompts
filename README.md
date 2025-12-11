@@ -1,2 +1,2 @@
 # prompts
-prompts collection.
+收集有用的prompts
